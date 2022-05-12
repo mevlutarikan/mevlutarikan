@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mevlut Arikan</h1>
 <h3 align="center">I am a Computer Engineer and full stack developer specializing in JavaScript, Node.Js, Express, React, Magento commerce, SQL, Elasticsearch, Docker and Redis.</h3>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/arikanmevlut/](https://www.linkedin.com/in/arikanmevlut/)
-
-- 📫 Reach me **mevlut@sektorbilisim.com**
-
-<p align="left"> <a href="https://twitter.com/mevlutarikan" target="blank"><img src="https://img.shields.io/twitter/follow/mevlutarikan?logo=twitter&style=for-the-badge" alt="mevlutarikan" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mevlutarikan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mevlutarikan" height="30" width="40" /></a>
